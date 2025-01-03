@@ -18,6 +18,10 @@
 [![Certified by University of Cape Town](https://img.shields.io/badge/Certified%20by%20UCT-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uct-blockchain-fundamentals)
 [![Certified by Blockchain Training Alliance](https://img.shields.io/badge/Certified%20by%20Blockchain%20Training%20Alliance-Certified%20Blockchain%20Developer%20Certificate-purple.svg)](https://www.blockchaintrainingalliance.com/certifications/)
 [![Certified by Harvard University](https://img.shields.io/badge/Certified%20by%20Harvard%20University-Blockchain%20and%20Bitcoin%20Technologies%20Certificate-red.svg)](https://online-learning.harvard.edu/course/blockchain-and-bitcoin-technologies)
+[![Certified by Blockchain Badges](https://img.shields.io/badge/Certified%20by%20Blockchain%20Badges-Digital%20Badge%20Solution%20Certificate-blue.svg)](https://www.blockchainbadges.com/)
+[![Certified by DoxyChain](https://img.shields.io/badge/Certified%20by%20DoxyChain-Microcredentials%20on%20Blockchain%20Certificate-orange.svg)](https://www.doxychain.com/)
+[![Certified by MIT Media Lab](https://img.shields.io/badge/Certified%20by%20MIT%20Media%20Lab-Digital%20Credentials%20Certificate-lightblue.svg)](https://media.mit.edu/)
+[![Certified by Open Badges](https://img.shields.io/badge/Certified%20by%20Open%20Badges-Open%20Badges%20Standard%20Certificate-green.svg)](http://openbadges.org/)
 
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
