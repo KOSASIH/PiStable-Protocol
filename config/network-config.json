@@ -1,0 +1,28 @@
+{
+    "networks": {
+        "development": {
+            "url": "http://127.0.0.1:8545",
+            "chainId": 1337,
+            "explorer": "http://localhost:3000",
+            "gasPrice": "20000000000"
+        },
+        "rinkeby": {
+            "url": "https://rinkeby.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+            "chainId": 4,
+            "explorer": "https://rinkeby.etherscan.io",
+            "gasPrice": "20000000000"
+        },
+        "mainnet": {
+            "url": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+            "chainId": 1,
+            "explorer": "https://etherscan.io",
+            "gasPrice": "100000000000"
+        },
+        "polygon": {
+            "url": "https://polygon-rpc.com",
+            "chainId": 137,
+            "explorer": "https://polygonscan.com",
+            "gasPrice": "30000000000"
+        }
+    }
+}
