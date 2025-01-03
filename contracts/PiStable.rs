@@ -6,7 +6,7 @@ pub struct PiStable;
 #[contractimpl]
 impl PiStable {
     const STABLE_COIN_VALUE: u128 = 314159; // Pegged value in cents
-    const TOTAL_SUPPLY: u128 = 200_000_000_000; // Total supply of 200 billion tokens
+    const TOTAL_SUPPLY: u128 = 100_000_000_000; // Total supply of 100 billion tokens
 
     pub fn initialize(env: Env) {
         // Mint total supply to the contract owner
