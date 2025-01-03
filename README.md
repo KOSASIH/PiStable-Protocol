@@ -8,6 +8,11 @@
 [![Certified by MIT](https://img.shields.io/badge/Certified%20by%20MIT-Blockchain%20Technologies%20Certificate-blue.svg)](https://www.edx.org/professional-certificate/mitx-blockchain-technologies)
 [![Certified by ConsenSys Academy](https://img.shields.io/badge/Certified%20by%20ConsenSys%20Academy-Ethereum%20Developer%20Certificate-purple.svg)](https://consensys.net/academy/bootcamp/)
 [![Certified by IBM](https://img.shields.io/badge/Certified%20by%20IBM-Blockchain%20Foundation%20Developer%20Certificate-lightblue.svg)](https://www.ibm.com/training/course/ibm-blockchain-foundation-developer)
+[![Certified by University of Nicosia](https://img.shields.io/badge/Certified%20by%20University%20of%20Nicosia-Master%20in%20Digital%20Currency%20Certificate-green.svg)](https://www.unic.ac.cy/blockchain/)
+[![Certified by Blockchain Council](https://img.shields.io/badge/Certified%20by%20Blockchain%20Council-Certified%20Blockchain%20Expert%20Certificate-lightgrey.svg)](https://www.blockchain-council.org/certifications/certified-blockchain-expert/)
+[![Certified by Binance Academy](https://img.shields.io/badge/Certified%20by%20Binance%20Academy-Binance%20Blockchain%20Developer%20Certificate-yellow.svg)](https://academy.binance.com/en/certifications)
+[![Certified by Udacity](https://img.shields.io/badge/Certified%20by%20Udacity-Blockchain%20Developer%20Nanodegree%20Certificate-blue.svg)](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+[![Certified by Coursera](https://img.shields.io/badge/Certified%20by%20Coursera-Blockchain%20Basics%20Certificate-orange.svg)](https://www.coursera.org/learn/blockchain-basics)
 
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
