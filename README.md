@@ -36,6 +36,11 @@
 [![Certified by AICPA](https://img.shields.io/badge/Certified%20by%20AICPA-CPA%20Certification-orange.svg)](https://www.aicpa.org/)
 [![Certified by GARP](https://img.shields.io/badge/Certified%20by%20GARP-FRM%20Certification-red.svg)](https://www.garp.org/)
 [![Certified by CFA Society](https://img.shields.io/badge/Certified%20by%20CFA%20Society-CFA%20Society%20Member-purple.svg)](https://www.cfainstitute.org/)
+[![Certified by IARFC](https://img.shields.io/badge/Certified%20by%20IARFC-IARFC%20Member-blue.svg)](https  ://www.iarfc.org/)
+[![Certified by CFP Board](https://img.shields.io/badge/Certified%20by%20CFP%20Board-CFP%20Certification-orange.svg)](https://www.cfp.net/)
+[![Certified by CIMA](https://img.shields.io/badge/Certified%20by%20CIMA-CIMA%20Chartered%20Global%20Management%20Accountant-green.svg)](https://www.cimaglobal.com/)
+[![Certified by CAIA](https://img.shields.io/badge/Certified%20by%20CAIA-CAIA%20Charterholder-purple.svg)](https://caia.org/)
+[![Certified by IMCA](https://img.shields.io/badge/Certified%20by%20IMCA-CIMA%20Certification-red.svg)](https://www.imca.org/)
 
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
