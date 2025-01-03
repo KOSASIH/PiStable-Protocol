@@ -52,6 +52,14 @@
 [![Certified by CIMA](https://img.shields.io/badge/Certified%20by%20CIMA-CIMA%20Fellow-green.svg)](https://www.cimaglobal.com/)
 [![Certified by ICAEW](https://img.shields.io/badge/Certified%20by%20ICAEW-ACA%20Chartered%20Accountant-purple.svg)](https://www.icaew.com/)
 
+# Certified Cybersecurity Organization Badges
+
+[![Certified by (ISC)²](https://img.shields.io/badge/Certified%20by%20(ISC)²-Certified%20in%20Cybersecurity%20(CC)-blue.svg)](https://www.isc2.org/)
+[![Certified by CompTIA](https://img.shields.io/badge/Certified%20by%20CompTIA-Cybersecurity%20Analyst%20(CSA)-orange.svg)](https://www.comptia.org/)
+[![Certified by EC-Council](https://img.shields.io/badge/Certified%20by%20EC--Council-Certified%20Ethical%20Hacker%20(CEH)-green.svg)](https://www.eccouncil.org/)
+[![Certified by ISACA](https://img.shields.io/badge/Certified%20by%20ISACA-Certified%20Information%20Systems%20Auditor%20(CISA)-purple.svg)](https://www.isaca.org/)
+[![Certified by GIAC](https://img.shields.io/badge/Certified%20by%20GIAC-GIAC%20Security%20Essentials%20(GSEC)-red.svg)](https://www.giac.org/)
+
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
 
