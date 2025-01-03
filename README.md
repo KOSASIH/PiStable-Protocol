@@ -4,6 +4,10 @@
 [![Certified by Coursera](https://img.shields.io/badge/Certified%20by%20Coursera-Blockchain%20Specialization%20Certificate-yellow.svg)](https://www.coursera.org/specializations/blockchain)
 [![Certified by edX](https://img.shields.io/badge/Certified%20by%20edX-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 [![Certified by Pi Network](https://img.shields.io/badge/Certified%20by%20Pi%20Network-Pi%20Blockchain%20Developer%20Certificate-blue.svg)](https://minepi.com/)
+[![Certified by University of California, Berkeley](https://img.shields.io/badge/Certified%20by%20UC%20Berkeley-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+[![Certified by MIT](https://img.shields.io/badge/Certified%20by%20MIT-Blockchain%20Technologies%20Certificate-blue.svg)](https://www.edx.org/professional-certificate/mitx-blockchain-technologies)
+[![Certified by ConsenSys Academy](https://img.shields.io/badge/Certified%20by%20ConsenSys%20Academy-Ethereum%20Developer%20Certificate-purple.svg)](https://consensys.net/academy/bootcamp/)
+[![Certified by IBM](https://img.shields.io/badge/Certified%20by%20IBM-Blockchain%20Foundation%20Developer%20Certificate-lightblue.svg)](https://www.ibm.com/training/course/ibm-blockchain-foundation-developer)
 
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
