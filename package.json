@@ -18,7 +18,7 @@
     "cryptocurrency"
   ],
   "author": "KOSASIH",
-  "license": "Apache 2.0",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "dotenv": "^10.0.0",
