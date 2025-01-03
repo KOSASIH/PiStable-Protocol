@@ -1,0 +1,30 @@
+{
+    "logging": {
+        "level": "info",
+        "transports": [
+            {
+                "type": "console",
+                "options": {
+                    "format": "combined"
+                }
+            },
+            {
+                "type": "file",
+                "options": {
+                    "filename": "logs/app.log",
+                    "level": "error",
+                    "maxSize": "20m",
+                    "maxFiles": "14d"
+                }
+            },
+            {
+                "type": "http",
+                "options": {
+                    "host": "logs.example.com",
+                    "path": "/log",
+                    "level": "warn"
+                }
+            }
+        ]
+    }
+}
