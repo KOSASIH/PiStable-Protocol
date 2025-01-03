@@ -1,0 +1,50 @@
+{
+  "name": "PiStable-Protocol",
+  "version": "1.0.0",
+  "description": "A decentralized finance protocol integrating Pi Coin as a stablecoin pegged to $314.159.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "webpack --mode production",
+    "test": "jest --coverage",
+    "deploy": "node scripts/deploy.js",
+    "migrate": "node scripts/migrate.js"
+  },
+  "keywords": [
+    "DeFi",
+    "stablecoin",
+    "PiCoin",
+    "blockchain",
+    "cryptocurrency"
+  ],
+  "author": "KOSASIH",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0",
+    "web3": "^1.5.0",
+    "mongoose": "^5.10.9",
+    "cors": "^2.8.5",
+    "axios": "^0.21.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.0",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.3.0",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.14.0",
+    " "eslint-config-airbnb": "^18.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/PiStable-Protocol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/PiStable-Protocol/issues"
+  },
+  "homepage": "https://github.com/yourusername/PiStable-Protocol#readme"
+}
