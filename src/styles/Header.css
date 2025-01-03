@@ -1,0 +1,28 @@
+/* src/styles/Header.css */
+
+.app-header {
+    background-color: #2980b9;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app-header h1 {
+    margin: 0;
+}
+
+.app-header nav {
+    display: flex;
+    gap: 15px;
+}
+
+.app-header a {
+    color: white;
+    font-weight: bold;
+}
+
+.app-header a:hover {
+    text-decoration: underline;
+}
