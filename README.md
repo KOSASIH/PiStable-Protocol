@@ -13,6 +13,11 @@
 [![Certified by Binance Academy](https://img.shields.io/badge/Certified%20by%20Binance%20Academy-Binance%20Blockchain%20Developer%20Certificate-yellow.svg)](https://academy.binance.com/en/certifications)
 [![Certified by Udacity](https://img.shields.io/badge/Certified%20by%20Udacity-Blockchain%20Developer%20Nanodegree%20Certificate-blue.svg)](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
 [![Certified by Coursera](https://img.shields.io/badge/Certified%20by%20Coursera-Blockchain%20Basics%20Certificate-orange.svg)](https://www.coursera.org/learn/blockchain-basics)
+[![Certified by Harvard University](https://img.shields.io/badge/Certified%20by%20Harvard%20University-Blockchain%20and%20Bitcoin%20Technologies%20Certificate-red.svg)](https://online-learning.harvard.edu/course/blockchain-and-bitcoin-technologies)
+[![Certified by Stanford Online](https://img.shields.io/badge/Certified%20by%20Stanford%20Online-Blockchain%20Fundamentals%20Certificate-lightgreen.svg)](https://online.stanford.edu/courses/sohs-ystanford-blockchain-fundamentals)
+[![Certified by University of Michigan](https://img.shields.io/badge/Certified%20by%20University%20of%20Michigan-Blockchain%20Applications%20Certificate-blue.svg)](https://www.coursera.org/learn/blockchain-applications)
+[![Certified by University of Cape Town](https://img.shields.io/badge/Certified%20by%20UCT-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uct-blockchain-fundamentals)
+[![Certified by Blockchain Training Alliance](https://img.shields.io/badge/Certified%20by%20Blockchain%20Training%20Alliance-Certified%20Blockchain%20Developer%20Certificate-purple.svg)](https://www.blockchaintrainingalliance.com/certifications/)
 
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
