@@ -22,6 +22,11 @@
 [![Certified by DoxyChain](https://img.shields.io/badge/Certified%20by%20DoxyChain-Microcredentials%20on%20Blockchain%20Certificate-orange.svg)](https://www.doxychain.com/)
 [![Certified by MIT Media Lab](https://img.shields.io/badge/Certified%20by%20MIT%20Media%20Lab-Digital%20Credentials%20Certificate-lightblue.svg)](https://media.mit.edu/)
 [![Certified by Open Badges](https://img.shields.io/badge/Certified%20by%20Open%20Badges-Open%20Badges%20Standard%20Certificate-green.svg)](http://openbadges.org/)
+[![Certified by Blockchain Institute](https://img.shields.io/badge/Certified%20by%20Blockchain%20Institute-Blockchain%20Fundamentals%20Certificate-lightgrey.svg)](https://www.blockchaininstitute.org/)
+[![Certified by CryptoCurrency Certification Consortium](https://img.shields.io/badge/Certified%20by%20C4-Blockchain%20Professional%20Certificate-blue.svg)](https://cryptoconsortium.org/)
+[![Certified by University of Oxford](https://img.shields.io/badge/Certified%20by%20University%20of%20Oxford-Blockchain%20Strategy%20Certificate-green.svg)](https://www.sbs.ox.ac.uk/exec-education/online-programmes/blockchain-strategy)
+[![Certified by University of Edinburgh](https://img.shields.io/badge/Certified%20by%20University%20of%20Edinburgh-Blockchain%20Technologies%20Certificate-orange.svg)](https://www.ed.ac.uk/)
+[![Certified by Blockchain Academy](https://img.shields.io/badge/Certified%20by%20Blockchain%20Academy-Certified%20Blockchain%20Expert%20Certificate-purple.svg)](https://www.blockchainacademy.com/)
 
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
