@@ -17,6 +17,7 @@
 [![Certified by University of Michigan](https://img.shields.io/badge/Certified%20by%20University%20of%20Michigan-Blockchain%20Applications%20Certificate-blue.svg)](https://www.coursera.org/learn/blockchain-applications)
 [![Certified by University of Cape Town](https://img.shields.io/badge/Certified%20by%20UCT-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uct-blockchain-fundamentals)
 [![Certified by Blockchain Training Alliance](https://img.shields.io/badge/Certified%20by%20Blockchain%20Training%20Alliance-Certified%20Blockchain%20Developer%20Certificate-purple.svg)](https://www.blockchaintrainingalliance.com/certifications/)
+[![Certified by Harvard University](https://img.shields.io/badge/Certified%20by%20Harvard%20University-Blockchain%20and%20Bitcoin%20Technologies%20Certificate-red.svg)](https://online-learning.harvard.edu/course/blockchain-and-bitcoin-technologies)
 
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
