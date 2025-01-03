@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract PiStable is ERC20, Ownable {
     // The value of the stablecoin in USD (pegged to $314.159)
     uint256 public constant STABLE_COIN_VALUE = 314159000000000000000; // 314.159 in wei (1e18 = 1 token)
-    uint256 public constant TOTAL_SUPPLY = 200000000000 * (10 ** decimals()); // 200 billion tokens
+    uint256 public constant TOTAL_SUPPLY = 100000000000 * (10 ** decimals()); // 100 billion tokens
 
     // Event to emit when the value is updated
     event ValueUpdated(uint256 newValue);
