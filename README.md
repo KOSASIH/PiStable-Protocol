@@ -31,6 +31,11 @@
 
 # Certified Finance Organization Badges
 
+[![Certified by World Bank](https://img.shields.io/badge/Certified%20by%20World%20Bank-World%20Bank%20Certification-blue.svg)](https://www.worldbank.org/)
+[![Certified by IMF](https://img.shields.io/badge/Certified%20by%20IMF-IMF%20Certification-orange.svg)](https://www.imf.org/)
+[![Certified by OECD](https://img.shields.io/badge/Certified%20by%20OECD-OECD%20Member-green.svg)](https://www.oecd.org/)
+[![Certified by UNDP](https://img.shields.io/badge/Certified%20by%20UNDP-UNDP%20Certification-purple.svg)](https://www.undp.org/)
+[![Certified by EBRD](https://img.shields.io/badge/Certified%20by%20EBRD-EBRD%20Certification-red.svg)](https://www.ebrd.com/)
 [![Certified by CFA Institute](https://img.shields.io/badge/Certified%20by%20CFA%20Institute-CFA%20Charterholder-green.svg)]( https://www.cfainstitute.org/)
 [![Certified by ACCA](https://img.shields.io/badge/Certified%20by%20ACCA-ACCA%20Member-blue.svg)](https://www.accaglobal.com/)
 [![Certified by AICPA](https://img.shields.io/badge/Certified%20by%20AICPA-CPA%20Certification-orange.svg)](https://www.aicpa.org/)
