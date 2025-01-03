@@ -1,2 +1,32 @@
-# Google App Engine generated folder
-appengine-generated/
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+build/
+out/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
