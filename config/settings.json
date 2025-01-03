@@ -1,0 +1,25 @@
+{
+    "app": {
+        "name": "PiStable Protocol",
+        "version": "1.0.0",
+        "description": "A decentralized finance platform for stablecoin management."
+    },
+    "features": {
+        "enableGovernance": true,
+        "enableStaking": true,
+        "enableLiquidity": true,
+        "enableNotifications": true
+    },
+    "security": {
+        "passwordMinLength": 12,
+        "enableTwoFactorAuth": true,
+        "maxLoginAttempts": 5,
+        "lockoutDuration": 30
+    },
+    "api": {
+        "rateLimit": {
+            "windowMs": 15 * 60 * 1000, // 15 minutes
+            "max": 100 // limit each IP to 100 requests per windowMs
+        }
+    }
+}
