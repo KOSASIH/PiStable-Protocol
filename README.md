@@ -60,6 +60,8 @@
 [![Certified by ISACA](https://img.shields.io/badge/Certified%20by%20ISACA-Certified%20Information%20Systems%20Auditor%20(CISA)-purple.svg)](https://www.isaca.org/)
 [![Certified by GIAC](https://img.shields.io/badge/Certified%20by%20GIAC-GIAC%20Security%20Essentials%20(GSEC)-red.svg)](https://www.giac.org/)
 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/PiStable-Protocol">PiStable</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
 # PiStable-Protocol
 PiStable-Protocol is the foundational codebase for the PiStable project, designed to integrate Pi Coin from the Pi Network as a stablecoin pegged to $314.159. This repository includes smart contracts, algorithms for maintaining price stability, governance mechanisms, and interoperability features, enabling seamless transactions and interactions within the global financial ecosystem. Join us in revolutionizing the way digital currencies are utilized and adopted!
 
