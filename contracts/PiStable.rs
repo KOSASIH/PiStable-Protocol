@@ -5,13 +5,13 @@ pub struct PiStable;
 
 #[contractimpl]
 impl PiStable {
-    const STABLE_COIN_VALUE: u128 = 314159; // Pegged value in cents
+    const STABLE_COIN_VALUE: u128 = 31415900; // Pegged value in cents ($314,159)
     const TOTAL_SUPPLY: u128 = 100_000_000_000; // Total supply of 100 billion tokens
 
     pub fn initialize(env: Env) {
         // Mint total supply to the contract owner
         let owner: Address = env.current_contract_address();
-        env.storage().persistent().set(&symbol!("total_supply"), &Self::TOTAL_SUPPLY);
+        env.storage().persistent().set(&symbol!("total_supply"), &0); // Initialize total supply to 0
         env.storage().persistent().set(&symbol!("owner"), &owner);
     }
 
