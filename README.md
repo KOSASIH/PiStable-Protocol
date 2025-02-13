@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/PiStable-Protocol/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/PiStable-Protocol/tree/main)
+
 # PiStable Protocol Certifications
 
 [![Certified by Stanford University](https://img.shields.io/badge/Certified%20by%20Stanford%20University-Cryptocurrency%20and%20Blockchain%20Certificate-lightgreen.svg)](https://online.stanford.edu/courses/sohs-ystanford-cryptocurrency-and-blockchain)
